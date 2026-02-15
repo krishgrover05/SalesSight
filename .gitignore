@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+ml_model/venv/
+ml_model/__pycache__/
+
+# Environment
+.env
+.DS_Store
+
+# LFS
+# (Handled by .gitattributes)

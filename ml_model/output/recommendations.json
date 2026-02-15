@@ -1,0 +1,854 @@
+[
+  {
+    "product": "GROCERY I",
+    "predicted_sales": 7649848.41,
+    "growth_rate": 25.02,
+    "recommendation_score": 0.7719
+  },
+  {
+    "product": "BEVERAGES",
+    "predicted_sales": 6158230.76,
+    "growth_rate": 59.33,
+    "recommendation_score": 0.6758
+  },
+  {
+    "product": "PRODUCE",
+    "predicted_sales": 4122417.02,
+    "growth_rate": 88.59,
+    "recommendation_score": 0.5439
+  },
+  {
+    "product": "GBC VeloBind Cover Sets",
+    "predicted_sales": 54455.09,
+    "growth_rate": 5725.18,
+    "recommendation_score": 0.5036
+  },
+  {
+    "product": "Advantus Plastic Paper Clips",
+    "predicted_sales": 35437.01,
+    "growth_rate": 5149.93,
+    "recommendation_score": 0.4793
+  },
+  {
+    "product": "Advantus Rolling Storage Box",
+    "predicted_sales": 45184.14,
+    "growth_rate": 3412.86,
+    "recommendation_score": 0.4104
+  },
+  {
+    "product": "CLEANING",
+    "predicted_sales": 2076194.64,
+    "growth_rate": 19.51,
+    "recommendation_score": 0.4074
+  },
+  {
+    "product": "GBC Plastic Binding Combs",
+    "predicted_sales": 15138.33,
+    "growth_rate": 2822.03,
+    "recommendation_score": 0.3848
+  },
+  {
+    "product": "DAIRY",
+    "predicted_sales": 1481586.91,
+    "growth_rate": 28.96,
+    "recommendation_score": 0.3689
+  },
+  {
+    "product": "Ibico Hi-Tech Manual Binding System",
+    "predicted_sales": 300455.8,
+    "growth_rate": 1940.77,
+    "recommendation_score": 0.3682
+  },
+  {
+    "product": "Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2\" X 14\" 7/8\"",
+    "predicted_sales": 29477.41,
+    "growth_rate": 2296.51,
+    "recommendation_score": 0.3647
+  },
+  {
+    "product": "Vinyl Sectional Post Binders",
+    "predicted_sales": 54321.61,
+    "growth_rate": 2133.94,
+    "recommendation_score": 0.3598
+  },
+  {
+    "product": "Global Ergonomic Managers Chair",
+    "predicted_sales": 295159.46,
+    "growth_rate": 1701.19,
+    "recommendation_score": 0.3582
+  },
+  {
+    "product": "Sterilite Officeware Hinged File Box",
+    "predicted_sales": 20481.7,
+    "growth_rate": 2071.51,
+    "recommendation_score": 0.3551
+  },
+  {
+    "product": "Tennsco 6- and 18-Compartment Lockers",
+    "predicted_sales": 440680.18,
+    "growth_rate": 1357.79,
+    "recommendation_score": 0.354
+  },
+  {
+    "product": "Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",
+    "predicted_sales": 11537.62,
+    "growth_rate": 2048.36,
+    "recommendation_score": 0.3536
+  },
+  {
+    "product": "Zipper Ring Binder Pockets",
+    "predicted_sales": 3991.79,
+    "growth_rate": 2016.09,
+    "recommendation_score": 0.3518
+  },
+  {
+    "product": "Angle-D Binders with Locking Rings, Label Holders",
+    "predicted_sales": 12317.6,
+    "growth_rate": 1975.45,
+    "recommendation_score": 0.3507
+  },
+  {
+    "product": "Fellowes Bases and Tops For Staxonsteel/High-Stak Systems",
+    "predicted_sales": 49639.16,
+    "growth_rate": 1826.5,
+    "recommendation_score": 0.3472
+  },
+  {
+    "product": "Pyle PMP37LED",
+    "predicted_sales": 183166.12,
+    "growth_rate": 1600.69,
+    "recommendation_score": 0.3469
+  },
+  {
+    "product": "Avery Durable Binders",
+    "predicted_sales": 4251.38,
+    "growth_rate": 1848.74,
+    "recommendation_score": 0.3451
+  },
+  {
+    "product": "Avery Heavy-Duty EZD View Binder with Locking Rings",
+    "predicted_sales": 9754.11,
+    "growth_rate": 1801.56,
+    "recommendation_score": 0.3436
+  },
+  {
+    "product": "SAFCO Arco Folding Chair",
+    "predicted_sales": 325627.04,
+    "growth_rate": 1025.49,
+    "recommendation_score": 0.3332
+  },
+  {
+    "product": "BREAD/BAKERY",
+    "predicted_sales": 936027.48,
+    "growth_rate": 24.7,
+    "recommendation_score": 0.333
+  },
+  {
+    "product": "GBC Premium Transparent Covers with Diagonal Lined Pattern",
+    "predicted_sales": 27431.18,
+    "growth_rate": 1423.06,
+    "recommendation_score": 0.3296
+  },
+  {
+    "product": "AT&T 17929 Lendline Telephone",
+    "predicted_sales": 58419.1,
+    "growth_rate": 1354.18,
+    "recommendation_score": 0.3289
+  },
+  {
+    "product": "Xerox 1898",
+    "predicted_sales": 10684.62,
+    "growth_rate": 1296.38,
+    "recommendation_score": 0.3235
+  },
+  {
+    "product": "Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4\"X8 1/2\", 300/Messages",
+    "predicted_sales": 5384.83,
+    "growth_rate": 1250.72,
+    "recommendation_score": 0.3213
+  },
+  {
+    "product": "SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card",
+    "predicted_sales": 27683.33,
+    "growth_rate": 1048.25,
+    "recommendation_score": 0.3146
+  },
+  {
+    "product": "Storex Dura Pro Binders",
+    "predicted_sales": 5668.49,
+    "growth_rate": 1053.02,
+    "recommendation_score": 0.3134
+  },
+  {
+    "product": "MEATS",
+    "predicted_sales": 617331.53,
+    "growth_rate": 11.47,
+    "recommendation_score": 0.3117
+  },
+  {
+    "product": "SAFCO Commercial Wire Shelving, Black",
+    "predicted_sales": 115964.21,
+    "growth_rate": 820.47,
+    "recommendation_score": 0.3113
+  },
+  {
+    "product": "POULTRY",
+    "predicted_sales": 602309.13,
+    "growth_rate": 6.07,
+    "recommendation_score": 0.3105
+  },
+  {
+    "product": "ACCOHIDE 3-Ring Binder, Blue, 1\"",
+    "predicted_sales": 3648.2,
+    "growth_rate": 975.23,
+    "recommendation_score": 0.3101
+  },
+  {
+    "product": "HOME CARE",
+    "predicted_sales": 526257.24,
+    "growth_rate": 84.37,
+    "recommendation_score": 0.3086
+  },
+  {
+    "product": "Acco Perma 4000 Stacking Storage Drawers",
+    "predicted_sales": 12546.67,
+    "growth_rate": 904.53,
+    "recommendation_score": 0.3079
+  },
+  {
+    "product": "Wilson Jones Easy Flow II Sheet Lifters",
+    "predicted_sales": 1315.14,
+    "growth_rate": 921.87,
+    "recommendation_score": 0.3079
+  },
+  {
+    "product": "DELI",
+    "predicted_sales": 525404.05,
+    "growth_rate": 22.32,
+    "recommendation_score": 0.3061
+  },
+  {
+    "product": "Fellowes Bankers Box Stor/Drawer Steel Plus",
+    "predicted_sales": 32330.72,
+    "growth_rate": 806.7,
+    "recommendation_score": 0.3053
+  },
+  {
+    "product": "PERSONAL CARE",
+    "predicted_sales": 510478.49,
+    "growth_rate": 16.52,
+    "recommendation_score": 0.3049
+  },
+  {
+    "product": "SCHOOL AND OFFICE SUPPLIES",
+    "predicted_sales": 40759.92,
+    "growth_rate": 749.56,
+    "recommendation_score": 0.3035
+  },
+  {
+    "product": "Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",
+    "predicted_sales": 161699.25,
+    "growth_rate": 508.03,
+    "recommendation_score": 0.3018
+  },
+  {
+    "product": "Xerox 1881",
+    "predicted_sales": 9847.41,
+    "growth_rate": 694.68,
+    "recommendation_score": 0.2993
+  },
+  {
+    "product": "Global Deluxe Steno Chair",
+    "predicted_sales": 34562.05,
+    "growth_rate": 550.69,
+    "recommendation_score": 0.2952
+  },
+  {
+    "product": "EGGS",
+    "predicted_sales": 330610.93,
+    "growth_rate": 19.05,
+    "recommendation_score": 0.2932
+  },
+  {
+    "product": "Ibico Plastic Spiral Binding Combs",
+    "predicted_sales": 15324.01,
+    "growth_rate": 503.41,
+    "recommendation_score": 0.292
+  },
+  {
+    "product": "Nortel Meridian M3904 Professional Digital phone",
+    "predicted_sales": 55854.56,
+    "growth_rate": 319.81,
+    "recommendation_score": 0.2873
+  },
+  {
+    "product": "KI Adjustable-Height Table",
+    "predicted_sales": 32604.55,
+    "growth_rate": 313.64,
+    "recommendation_score": 0.2856
+  },
+  {
+    "product": "Kingston Digital DataTraveler 16GB USB 2.0",
+    "predicted_sales": 5074.1,
+    "growth_rate": 360.06,
+    "recommendation_score": 0.2856
+  },
+  {
+    "product": "FROZEN FOODS",
+    "predicted_sales": 221684.61,
+    "growth_rate": -11.58,
+    "recommendation_score": 0.2849
+  },
+  {
+    "product": "Wilson Jones Ledger-Size, Piano-Hinge Binder, 2\", Blue",
+    "predicted_sales": 12130.67,
+    "growth_rate": 270.44,
+    "recommendation_score": 0.2825
+  },
+  {
+    "product": "LAWN AND GARDEN",
+    "predicted_sales": 32625.41,
+    "growth_rate": 233.68,
+    "recommendation_score": 0.2824
+  },
+  {
+    "product": "Eldon Wave Desk Accessories",
+    "predicted_sales": 1974.4,
+    "growth_rate": 245.44,
+    "recommendation_score": 0.2808
+  },
+  {
+    "product": "PREPARED FOODS",
+    "predicted_sales": 153495.22,
+    "growth_rate": -2.09,
+    "recommendation_score": 0.2808
+  },
+  {
+    "product": "LIQUOR,WINE,BEER",
+    "predicted_sales": 142965.72,
+    "growth_rate": 3.6,
+    "recommendation_score": 0.2804
+  },
+  {
+    "product": "XtraLife ClearVue Slant-D Ring Binder, White, 3\"",
+    "predicted_sales": 3768.57,
+    "growth_rate": 225.37,
+    "recommendation_score": 0.2801
+  },
+  {
+    "product": "Crayola Colored Pencils",
+    "predicted_sales": 1045.39,
+    "growth_rate": 217.56,
+    "recommendation_score": 0.2796
+  },
+  {
+    "product": "HOME AND KITCHEN II",
+    "predicted_sales": 51092.39,
+    "growth_rate": 88.6,
+    "recommendation_score": 0.2778
+  },
+  {
+    "product": "Adjustable Depth Letter/Legal Cart",
+    "predicted_sales": 44050.39,
+    "growth_rate": 97.36,
+    "recommendation_score": 0.2776
+  },
+  {
+    "product": "PET SUPPLIES",
+    "predicted_sales": 15263.56,
+    "growth_rate": 140.28,
+    "recommendation_score": 0.2775
+  },
+  {
+    "product": "Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",
+    "predicted_sales": 9869.94,
+    "growth_rate": 137.87,
+    "recommendation_score": 0.277
+  },
+  {
+    "product": "Pressboard Covers with Storage Hooks, 9 1/2\" x 11\", Light Blue",
+    "predicted_sales": 648.19,
+    "growth_rate": 152.66,
+    "recommendation_score": 0.277
+  },
+  {
+    "product": "#10- 4 1/8\" x 9 1/2\" Recycled Envelopes",
+    "predicted_sales": 2105.42,
+    "growth_rate": 144.81,
+    "recommendation_score": 0.2768
+  },
+  {
+    "product": "PLAYERS AND ELECTRONICS",
+    "predicted_sales": 21468.4,
+    "growth_rate": 114.2,
+    "recommendation_score": 0.2768
+  },
+  {
+    "product": "Staple remover",
+    "predicted_sales": 1068.76,
+    "growth_rate": 143.74,
+    "recommendation_score": 0.2767
+  },
+  {
+    "product": "HOME AND KITCHEN I",
+    "predicted_sales": 52118.15,
+    "growth_rate": 57.16,
+    "recommendation_score": 0.2766
+  },
+  {
+    "product": "MAGAZINES",
+    "predicted_sales": 10292.79,
+    "growth_rate": 116.91,
+    "recommendation_score": 0.2762
+  },
+  {
+    "product": "LADIESWEAR",
+    "predicted_sales": 22071.93,
+    "growth_rate": 90.27,
+    "recommendation_score": 0.2759
+  },
+  {
+    "product": "GROCERY II",
+    "predicted_sales": 49377.34,
+    "growth_rate": 41.21,
+    "recommendation_score": 0.2757
+  },
+  {
+    "product": "CELEBRATION",
+    "predicted_sales": 22975.66,
+    "growth_rate": 69.44,
+    "recommendation_score": 0.2752
+  },
+  {
+    "product": "Xerox 1893",
+    "predicted_sales": 7260.16,
+    "growth_rate": 85.55,
+    "recommendation_score": 0.2748
+  },
+  {
+    "product": "BABY CARE",
+    "predicted_sales": 317.09,
+    "growth_rate": 77.09,
+    "recommendation_score": 0.274
+  },
+  {
+    "product": "BEAUTY",
+    "predicted_sales": 9634.67,
+    "growth_rate": 60.06,
+    "recommendation_score": 0.2739
+  },
+  {
+    "product": "Hon Every-Day Series Multi-Task Chairs",
+    "predicted_sales": 25825.44,
+    "growth_rate": 27.56,
+    "recommendation_score": 0.2737
+  },
+  {
+    "product": "Hot File 7-Pocket, Floor Stand",
+    "predicted_sales": 24114.69,
+    "growth_rate": 28.4,
+    "recommendation_score": 0.2736
+  },
+  {
+    "product": "LINGERIE",
+    "predicted_sales": 14504.78,
+    "growth_rate": 24.66,
+    "recommendation_score": 0.2728
+  },
+  {
+    "product": "SEAFOOD",
+    "predicted_sales": 33676.72,
+    "growth_rate": -6.2,
+    "recommendation_score": 0.2728
+  },
+  {
+    "product": "HARDWARE",
+    "predicted_sales": 2623.44,
+    "growth_rate": 42.32,
+    "recommendation_score": 0.2727
+  },
+  {
+    "product": "AUTOMOTIVE",
+    "predicted_sales": 11516.39,
+    "growth_rate": 16.52,
+    "recommendation_score": 0.2723
+  },
+  {
+    "product": "HOME APPLIANCES",
+    "predicted_sales": 966.2,
+    "growth_rate": 30.37,
+    "recommendation_score": 0.2721
+  },
+  {
+    "product": "Standard Rollaway File with Lock",
+    "predicted_sales": 18880.98,
+    "growth_rate": -4.57,
+    "recommendation_score": 0.2719
+  },
+  {
+    "product": "Xerox 226",
+    "predicted_sales": 1096.7,
+    "growth_rate": 20.26,
+    "recommendation_score": 0.2718
+  },
+  {
+    "product": "BOOKS",
+    "predicted_sales": 139.03,
+    "growth_rate": 21.22,
+    "recommendation_score": 0.2717
+  },
+  {
+    "product": "Hunt PowerHouse Electric Pencil Sharpener, Blue",
+    "predicted_sales": 5480.04,
+    "growth_rate": 12.9,
+    "recommendation_score": 0.2717
+  },
+  {
+    "product": "Easy-staple paper",
+    "predicted_sales": 1639.48,
+    "growth_rate": -4.92,
+    "recommendation_score": 0.2708
+  },
+  {
+    "product": "Staples",
+    "predicted_sales": 455.37,
+    "growth_rate": -9.59,
+    "recommendation_score": 0.2705
+  },
+  {
+    "product": "Logitech B530 USB\u00a0Headset\u00a0-\u00a0headset\u00a0- Full size, Binaural",
+    "predicted_sales": 1500.49,
+    "growth_rate": -32.39,
+    "recommendation_score": 0.2697
+  },
+  {
+    "product": "Tennsco Double-Tier Lockers",
+    "predicted_sales": 11382.61,
+    "growth_rate": -52.72,
+    "recommendation_score": 0.2695
+  },
+  {
+    "product": "Belkin 19\" Vented Equipment Shelf, Black",
+    "predicted_sales": 788.35,
+    "growth_rate": -81.23,
+    "recommendation_score": 0.2677
+  },
+  {
+    "product": "Staple envelope",
+    "predicted_sales": 94.34,
+    "growth_rate": -91.18,
+    "recommendation_score": 0.2672
+  },
+  {
+    "product": "Situations Contoured Folding Chairs, 4/Set",
+    "predicted_sales": 270.3,
+    "growth_rate": -96.29,
+    "recommendation_score": 0.267
+  },
+  {
+    "product": "Staple holder",
+    "predicted_sales": -28.66,
+    "growth_rate": -102.35,
+    "recommendation_score": 0.2668
+  },
+  {
+    "product": "Newell 312",
+    "predicted_sales": -231.39,
+    "growth_rate": -136.14,
+    "recommendation_score": 0.2654
+  },
+  {
+    "product": "Avery Non-Stick Binders",
+    "predicted_sales": -155.07,
+    "growth_rate": -147.57,
+    "recommendation_score": 0.265
+  },
+  {
+    "product": "O'Sullivan Living Dimensions 2-Shelf Bookcases",
+    "predicted_sales": -6195.11,
+    "growth_rate": -169.53,
+    "recommendation_score": 0.2637
+  },
+  {
+    "product": "Maxell 4.7GB DVD-R",
+    "predicted_sales": -5183.3,
+    "growth_rate": -254.3,
+    "recommendation_score": 0.2604
+  },
+  {
+    "product": "Hon Olson Stacker Stools",
+    "predicted_sales": -21713.75,
+    "growth_rate": -236.71,
+    "recommendation_score": 0.26
+  },
+  {
+    "product": "Aluminum Screw Posts",
+    "predicted_sales": -2198.28,
+    "growth_rate": -327.67,
+    "recommendation_score": 0.2576
+  },
+  {
+    "product": "Avery File Folder Labels",
+    "predicted_sales": -663.69,
+    "growth_rate": -353.45,
+    "recommendation_score": 0.2567
+  },
+  {
+    "product": "Acco Pressboard Covers with Storage Hooks, 14 7/8\" x 11\", Light Blue",
+    "predicted_sales": -1015.42,
+    "growth_rate": -384.01,
+    "recommendation_score": 0.2554
+  },
+  {
+    "product": "SAFCO Boltless Steel Shelving",
+    "predicted_sales": -32872.77,
+    "growth_rate": -332.91,
+    "recommendation_score": 0.2554
+  },
+  {
+    "product": "Belkin 5 Outlet SurgeMaster Power Centers",
+    "predicted_sales": -14714.83,
+    "growth_rate": -376.17,
+    "recommendation_score": 0.2549
+  },
+  {
+    "product": "Avery 499",
+    "predicted_sales": -1516.13,
+    "growth_rate": -415.34,
+    "recommendation_score": 0.2541
+  },
+  {
+    "product": "DXL Angle-View Binders with Locking Rings by Samsill",
+    "predicted_sales": -2155.58,
+    "growth_rate": -434.03,
+    "recommendation_score": 0.2534
+  },
+  {
+    "product": "GBC Standard Therm-A-Bind Covers",
+    "predicted_sales": -5086.44,
+    "growth_rate": -482.23,
+    "recommendation_score": 0.2512
+  },
+  {
+    "product": "Global Wood Trimmed Manager's Task Chair, Khaki",
+    "predicted_sales": -32679.46,
+    "growth_rate": -465.99,
+    "recommendation_score": 0.2501
+  },
+  {
+    "product": "Global High-Back Leather Tilter, Burgundy",
+    "predicted_sales": -42491.45,
+    "growth_rate": -464.77,
+    "recommendation_score": 0.2495
+  },
+  {
+    "product": "Global Value Steno Chair, Gray",
+    "predicted_sales": -26419.91,
+    "growth_rate": -499.42,
+    "recommendation_score": 0.2492
+  },
+  {
+    "product": "Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",
+    "predicted_sales": -31293.93,
+    "growth_rate": -553.58,
+    "recommendation_score": 0.2467
+  },
+  {
+    "product": "GBC Twin Loop Wire Binding Elements",
+    "predicted_sales": -15317.84,
+    "growth_rate": -590.17,
+    "recommendation_score": 0.2463
+  },
+  {
+    "product": "Fellowes Officeware Wire Shelving",
+    "predicted_sales": -52927.08,
+    "growth_rate": -530.35,
+    "recommendation_score": 0.2462
+  },
+  {
+    "product": "Wilson Electronics DB Pro Signal Booster",
+    "predicted_sales": -97495.15,
+    "growth_rate": -466.04,
+    "recommendation_score": 0.2458
+  },
+  {
+    "product": "Newell 333",
+    "predicted_sales": -1415.62,
+    "growth_rate": -698.44,
+    "recommendation_score": 0.2428
+  },
+  {
+    "product": "GBC DocuBind P50 Personal Binding Machine",
+    "predicted_sales": -38546.4,
+    "growth_rate": -667.3,
+    "recommendation_score": 0.2416
+  },
+  {
+    "product": "Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",
+    "predicted_sales": -89245.39,
+    "growth_rate": -596.7,
+    "recommendation_score": 0.2412
+  },
+  {
+    "product": "Staples in misc. colors",
+    "predicted_sales": -4905.67,
+    "growth_rate": -740.34,
+    "recommendation_score": 0.2409
+  },
+  {
+    "product": "Staple-based wall hangings",
+    "predicted_sales": -6740.54,
+    "growth_rate": -951.3,
+    "recommendation_score": 0.2324
+  },
+  {
+    "product": "Eldon Expressions Wood Desk Accessories, Oak",
+    "predicted_sales": -4463.47,
+    "growth_rate": -1031.77,
+    "recommendation_score": 0.2293
+  },
+  {
+    "product": "Geemarc AmpliPOWER60",
+    "predicted_sales": -76534.25,
+    "growth_rate": -921.73,
+    "recommendation_score": 0.229
+  },
+  {
+    "product": "I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink",
+    "predicted_sales": -16575.72,
+    "growth_rate": -1117.57,
+    "recommendation_score": 0.2251
+  },
+  {
+    "product": "Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",
+    "predicted_sales": -33593.05,
+    "growth_rate": -1119.36,
+    "recommendation_score": 0.2239
+  },
+  {
+    "product": "Plantronics CS510 - Over-the-Head monaural Wireless Headset System",
+    "predicted_sales": -245120.36,
+    "growth_rate": -854.98,
+    "recommendation_score": 0.2206
+  },
+  {
+    "product": "Wilson Jones Turn Tabs Binder Tool for Ring Binders",
+    "predicted_sales": -5878.1,
+    "growth_rate": -1272.62,
+    "recommendation_score": 0.2196
+  },
+  {
+    "product": "Poly String Tie Envelopes",
+    "predicted_sales": -2300.46,
+    "growth_rate": -1337.97,
+    "recommendation_score": 0.2172
+  },
+  {
+    "product": "GBC DocuBind TL300 Electric Binding System",
+    "predicted_sales": -363674.04,
+    "growth_rate": -772.67,
+    "recommendation_score": 0.2162
+  },
+  {
+    "product": "DMI Arturo Collection Mission-style Design Wood Chair",
+    "predicted_sales": -137639.5,
+    "growth_rate": -1192.38,
+    "recommendation_score": 0.2142
+  },
+  {
+    "product": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+    "predicted_sales": -497602.26,
+    "growth_rate": -704.18,
+    "recommendation_score": 0.2102
+  },
+  {
+    "product": "Avery Arch Ring Binders",
+    "predicted_sales": -56974.98,
+    "growth_rate": -1539.99,
+    "recommendation_score": 0.2055
+  },
+  {
+    "product": "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",
+    "predicted_sales": -49127.14,
+    "growth_rate": -1560.44,
+    "recommendation_score": 0.2052
+  },
+  {
+    "product": "Logitech Desktop MK120 Mouse and keyboard Combo",
+    "predicted_sales": -30517.06,
+    "growth_rate": -1667.52,
+    "recommendation_score": 0.2021
+  },
+  {
+    "product": "Fellowes Mobile File Cart, Black",
+    "predicted_sales": -106220.16,
+    "growth_rate": -1638.98,
+    "recommendation_score": 0.1983
+  },
+  {
+    "product": "Avery Self-Adhesive Photo Pockets for Polaroid Photos",
+    "predicted_sales": -6845.7,
+    "growth_rate": -1855.19,
+    "recommendation_score": 0.1962
+  },
+  {
+    "product": "GBC Standard Recycled Report Covers, Clear Plastic Sheets",
+    "predicted_sales": -12050.62,
+    "growth_rate": -1963.11,
+    "recommendation_score": 0.1915
+  },
+  {
+    "product": "Bretford Rectangular Conference Table Tops",
+    "predicted_sales": -490028.0,
+    "growth_rate": -1608.32,
+    "recommendation_score": 0.1745
+  },
+  {
+    "product": "GBC Instant Report Kit",
+    "predicted_sales": -9545.43,
+    "growth_rate": -2607.11,
+    "recommendation_score": 0.1659
+  },
+  {
+    "product": "Chromcraft Round Conference Tables",
+    "predicted_sales": -369139.41,
+    "growth_rate": -2048.58,
+    "recommendation_score": 0.1648
+  },
+  {
+    "product": "Flat Face Poster Frame",
+    "predicted_sales": -40431.09,
+    "growth_rate": -2813.36,
+    "recommendation_score": 0.1556
+  },
+  {
+    "product": "Logitech 910-002974 M325 Wireless Mouse for Web Scrolling",
+    "predicted_sales": -77585.63,
+    "growth_rate": -2852.18,
+    "recommendation_score": 0.1517
+  },
+  {
+    "product": "Wilson Jones Leather-Like Binders with DublLock Round Rings",
+    "predicted_sales": -26896.28,
+    "growth_rate": -4614.14,
+    "recommendation_score": 0.0844
+  },
+  {
+    "product": "Prang Drawing Pencil Set",
+    "predicted_sales": -14027.13,
+    "growth_rate": -5239.17,
+    "recommendation_score": 0.0603
+  },
+  {
+    "product": "Carina Double Wide Media Storage Towers in Natural & Black",
+    "predicted_sales": -370861.87,
+    "growth_rate": -4998.05,
+    "recommendation_score": 0.0466
+  },
+  {
+    "product": "Satellite Sectional Post Binders",
+    "predicted_sales": -221835.53,
+    "growth_rate": -6768.17,
+    "recommendation_score": 0.0
+  }
+]

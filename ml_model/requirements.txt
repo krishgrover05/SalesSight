@@ -1,0 +1,6 @@
+# SalesSight ML pipeline
+pandas>=2.0.0
+numpy>=1.24.0
+prophet>=1.1.0
+fastapi>=0.100.0
+uvicorn>=0.22.0

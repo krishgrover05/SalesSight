@@ -1,0 +1,502 @@
+[
+    {
+        "id": "b1",
+        "name": "Amul Salted Butter",
+        "price": 56,
+        "unit": "100 g",
+        "brand": "Amul",
+        "category": "Dairy",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b2",
+        "name": "Amul Taaza Toned Fresh Milk",
+        "price": 54,
+        "unit": "500 ml",
+        "brand": "Amul",
+        "category": "Dairy",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b3",
+        "name": "Nandini GoodLife Toned Milk",
+        "price": 62,
+        "unit": "500 ml",
+        "brand": "Nandini",
+        "category": "Dairy",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b4",
+        "name": "Tata Salt Vacuum Evaporated",
+        "price": 28,
+        "unit": "1 kg",
+        "brand": "Tata",
+        "category": "Pantry",
+        "rating": 4.9,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b5",
+        "name": "Aashirvaad Superior MP Atta",
+        "price": 240,
+        "unit": "5 kg",
+        "brand": "Aashirvaad",
+        "category": "Pantry",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b6",
+        "name": "Fortune Sunlite Refined Sunflower Oil",
+        "price": 145,
+        "unit": "1 L",
+        "brand": "Fortune",
+        "category": "Oil",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b7",
+        "name": "Maggi 2-Minute Masala Noodles",
+        "price": 14,
+        "unit": "70 g",
+        "brand": "Maggi",
+        "category": "Snacks",
+        "rating": 4.9,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b8",
+        "name": "Britannia Toastea Premium Bake Rusk",
+        "price": 40,
+        "unit": "200 g",
+        "brand": "Britannia",
+        "category": "Bakery",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b9",
+        "name": "Modern White Bread",
+        "price": 45,
+        "unit": "400 g",
+        "brand": "Modern",
+        "category": "Bakery",
+        "rating": 4.5,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b10",
+        "name": "Haldiram's Bhujia Sev",
+        "price": 55,
+        "unit": "200 g",
+        "brand": "Haldiram's",
+        "category": "Snacks",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b11",
+        "name": "Lays India's Magic Masala Chips",
+        "price": 20,
+        "unit": "52 g",
+        "brand": "Lays",
+        "category": "Snacks",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b12",
+        "name": "Kurkure Masala Munch",
+        "price": 20,
+        "unit": "90 g",
+        "brand": "Kurkure",
+        "category": "Snacks",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b13",
+        "name": "Coca-Cola Original Taste Soft Drink",
+        "price": 40,
+        "unit": "750 ml",
+        "brand": "Coca-Cola",
+        "category": "Beverages",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b14",
+        "name": "Thums Up Soft Drink",
+        "price": 40,
+        "unit": "750 ml",
+        "brand": "Thums Up",
+        "category": "Beverages",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b15",
+        "name": "Sprite Lime Flavored Soft Drink",
+        "price": 40,
+        "unit": "750 ml",
+        "brand": "Sprite",
+        "category": "Beverages",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b16",
+        "name": "Maaza Mango Drink",
+        "price": 45,
+        "unit": "600 ml",
+        "brand": "Maaza",
+        "category": "Beverages",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b17",
+        "name": "Brooke Bond Red Label Tea",
+        "price": 140,
+        "unit": "250 g",
+        "brand": "Red Label",
+        "category": "Beverages",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b18",
+        "name": "Tata Tea Gold",
+        "price": 150,
+        "unit": "250 g",
+        "brand": "Tata Tea",
+        "category": "Beverages",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b19",
+        "name": "Nescafe Classic Instant Coffee",
+        "price": 190,
+        "unit": "50 g",
+        "brand": "Nescafe",
+        "category": "Beverages",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b20",
+        "name": "Bru Instant Coffee",
+        "price": 110,
+        "unit": "50 g",
+        "brand": "Bru",
+        "category": "Beverages",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b21",
+        "name": "Surf Excel Matic Top Load Liquid Detergent",
+        "price": 230,
+        "unit": "1 L",
+        "brand": "Surf Excel",
+        "category": "Cleaning",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b22",
+        "name": "Vim Dishwash Gel Lemon",
+        "price": 115,
+        "unit": "750 ml",
+        "brand": "Vim",
+        "category": "Cleaning",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b23",
+        "name": "Harpic Power Plus Toilet Cleaner",
+        "price": 180,
+        "unit": "1 L",
+        "brand": "Harpic",
+        "category": "Cleaning",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b24",
+        "name": "Lizol Disinfectant Surface Cleaner Citrus",
+        "price": 195,
+        "unit": "1 L",
+        "brand": "Lizol",
+        "category": "Cleaning",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b25",
+        "name": "Dettol Original Bathing Soap Bar",
+        "price": 150,
+        "unit": "4x75 g",
+        "brand": "Dettol",
+        "category": "Personal Care",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b26",
+        "name": "Lux International Creamy Perfection Soap",
+        "price": 140,
+        "unit": "4x100 g",
+        "brand": "Lux",
+        "category": "Personal Care",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b27",
+        "name": "Colgate Strong Teeth Toothpaste",
+        "price": 110,
+        "unit": "200 g",
+        "brand": "Colgate",
+        "category": "Personal Care",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b28",
+        "name": "Close Up Everfresh Red Hot Gel Toothpaste",
+        "price": 95,
+        "unit": "150 g",
+        "brand": "Close Up",
+        "category": "Personal Care",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b29",
+        "name": "Dove Daily Shine Shampoo",
+        "price": 180,
+        "unit": "180 ml",
+        "brand": "Dove",
+        "category": "Personal Care",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b30",
+        "name": "Head & Shoulders Cool Menthol Shampoo",
+        "price": 190,
+        "unit": "180 ml",
+        "brand": "Head & Shoulders",
+        "category": "Personal Care",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b31",
+        "name": "Parachute 100% Pure Coconut Oil",
+        "price": 130,
+        "unit": "300 ml",
+        "brand": "Parachute",
+        "category": "Personal Care",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b32",
+        "name": "Nivea Men Dark Spot Reduction Face Wash",
+        "price": 199,
+        "unit": "100 g",
+        "brand": "Nivea",
+        "category": "Personal Care",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b33",
+        "name": "Gillette Mach3 Turbo Razor",
+        "price": 250,
+        "unit": "1 pc",
+        "brand": "Gillette",
+        "category": "Personal Care",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b34",
+        "name": "Whisper Choice Sanitary Pads",
+        "price": 45,
+        "unit": "7 pads",
+        "brand": "Whisper",
+        "category": "Personal Care",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b35",
+        "name": "Pampers All round Protection Pants Diapers",
+        "price": 899,
+        "unit": "44 count",
+        "brand": "Pampers",
+        "category": "Baby Care",
+        "rating": 4.9,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b36",
+        "name": "Kissan Fresh Tomato Ketchup",
+        "price": 140,
+        "unit": "1 kg",
+        "brand": "Kissan",
+        "category": "Pantry",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b37",
+        "name": "Chings Secret Schezwan Chutney",
+        "price": 85,
+        "unit": "250 g",
+        "brand": "Chings",
+        "category": "Pantry",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b38",
+        "name": "Nutella Hazelnut Spread",
+        "price": 375,
+        "unit": "350 g",
+        "brand": "Nutella",
+        "category": "Pantry",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b39",
+        "name": "Kellogg's Corn Flakes Original",
+        "price": 310,
+        "unit": "475 g",
+        "brand": "Kellogg's",
+        "category": "Breakfast",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b40",
+        "name": "Quaker Oats",
+        "price": 190,
+        "unit": "1 kg",
+        "brand": "Quaker",
+        "category": "Breakfast",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b41",
+        "name": "Saffola Masala Oats Classic Masala",
+        "price": 180,
+        "unit": "500 g",
+        "brand": "Saffola",
+        "category": "Breakfast",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b42",
+        "name": "Real Fruit Power Mixed Fruit Juice",
+        "price": 110,
+        "unit": "1 L",
+        "brand": "Real",
+        "category": "Beverages",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b43",
+        "name": "Tropicana 100% Mixed Fruit Juice",
+        "price": 120,
+        "unit": "1 L",
+        "brand": "Tropicana",
+        "category": "Beverages",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b44",
+        "name": "Dabur Honey",
+        "price": 199,
+        "unit": "400 g",
+        "brand": "Dabur",
+        "category": "Pantry",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b45",
+        "name": "Patanjali Cow's Ghee",
+        "price": 615,
+        "unit": "1 L",
+        "brand": "Patanjali",
+        "category": "Pantry",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b46",
+        "name": "Mother Dairy Paneer",
+        "price": 90,
+        "unit": "200 g",
+        "brand": "Mother Dairy",
+        "category": "Dairy",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b47",
+        "name": "Idli / Dosa Batter",
+        "price": 60,
+        "unit": "1 kg",
+        "brand": "ID Fresh",
+        "category": "Ready to Cook",
+        "rating": 4.6,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b48",
+        "name": "McCain French Fries",
+        "price": 125,
+        "unit": "420 g",
+        "brand": "McCain",
+        "category": "Frozen",
+        "rating": 4.8,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b49",
+        "name": "Amul Cheese Slices",
+        "price": 130,
+        "unit": "200 g",
+        "brand": "Amul",
+        "category": "Dairy",
+        "rating": 4.7,
+        "availability": "In Stock"
+    },
+    {
+        "id": "b50",
+        "name": "Britannia Cheese Block",
+        "price": 125,
+        "unit": "200 g",
+        "brand": "Britannia",
+        "category": "Dairy",
+        "rating": 4.6,
+        "availability": "In Stock"
+    }
+]

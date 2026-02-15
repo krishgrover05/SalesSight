@@ -1,0 +1,570 @@
+{
+  "#10- 4 1/8\" x 9 1/2\" Recycled Envelopes": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "ACCOHIDE 3-Ring Binder, Blue, 1\"": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "AT&T 17929 Lendline Telephone": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "AUTOMOTIVE": {
+    "mae": 40.95578721073484,
+    "rmse": 47.887643715109945
+  },
+  "Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2\" X 14\" 7/8\"": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Acco Perma 4000 Stacking Storage Drawers": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Acco Pressboard Covers with Storage Hooks, 14 7/8\" x 11\", Light Blue": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4\"X8 1/2\", 300/Messages": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Adjustable Depth Letter/Legal Cart": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Advantus Plastic Paper Clips": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Advantus Rolling Storage Box": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Aluminum Screw Posts": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Angle-D Binders with Locking Rings, Label Holders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery 499": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery Arch Ring Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery Durable Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery File Folder Labels": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery Heavy-Duty EZD View Binder with Locking Rings": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery Non-Stick Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Avery Self-Adhesive Photo Pockets for Polaroid Photos": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "BABY CARE": {
+    "mae": 4.5351569312867115,
+    "rmse": 5.38030638039683
+  },
+  "BEAUTY": {
+    "mae": 43.071992008347216,
+    "rmse": 53.152082862174844
+  },
+  "BEVERAGES": {
+    "mae": 16121.60857047179,
+    "rmse": 19540.449109120815
+  },
+  "BOOKS": {
+    "mae": 11.973816529754483,
+    "rmse": 12.095646752563699
+  },
+  "BREAD/BAKERY": {
+    "mae": 2154.2194458073554,
+    "rmse": 2607.0657855520503
+  },
+  "Belkin 19\" Vented Equipment Shelf, Black": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Belkin 5 Outlet SurgeMaster Power Centers": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Bretford Rectangular Conference Table Tops": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "CELEBRATION": {
+    "mae": 114.12779182111335,
+    "rmse": 145.45315422140408
+  },
+  "CLEANING": {
+    "mae": 12125.383696752458,
+    "rmse": 15917.540937858428
+  },
+  "Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Carina Double Wide Media Storage Towers in Natural & Black": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Chromcraft Round Conference Tables": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Crayola Colored Pencils": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "DAIRY": {
+    "mae": 4413.759516723677,
+    "rmse": 5174.4053970774885
+  },
+  "DELI": {
+    "mae": 1712.888439177552,
+    "rmse": 2012.3315075993992
+  },
+  "DMI Arturo Collection Mission-style Design Wood Chair": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "DXL Angle-View Binders with Locking Rings by Samsill": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "EGGS": {
+    "mae": 1165.7522582232582,
+    "rmse": 1512.9157475710683
+  },
+  "Easy-staple paper": {
+    "mae": 1007.3439888445566,
+    "rmse": 1245.4006818114256
+  },
+  "Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Eldon Expressions Wood Desk Accessories, Oak": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Eldon Wave Desk Accessories": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "FROZEN FOODS": {
+    "mae": 1270.5204171731186,
+    "rmse": 1522.262504876477
+  },
+  "Fellowes Bankers Box Stor/Drawer Steel Plus": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Fellowes Bases and Tops For Staxonsteel/High-Stak Systems": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Fellowes Mobile File Cart, Black": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Fellowes Officeware Wire Shelving": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Flat Face Poster Frame": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC DocuBind P50 Personal Binding Machine": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC DocuBind TL300 Electric Binding System": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Instant Report Kit": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Plastic Binding Combs": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Premium Transparent Covers with Diagonal Lined Pattern": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Standard Recycled Report Covers, Clear Plastic Sheets": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Standard Therm-A-Bind Covers": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC Twin Loop Wire Binding Elements": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GBC VeloBind Cover Sets": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "GROCERY I": {
+    "mae": 20576.179221528255,
+    "rmse": 26386.023938371545
+  },
+  "GROCERY II": {
+    "mae": 365.6571979455455,
+    "rmse": 460.001694040065
+  },
+  "Geemarc AmpliPOWER60": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global Deluxe Steno Chair": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global Ergonomic Managers Chair": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global High-Back Leather Tilter, Burgundy": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global Value Steno Chair, Gray": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Global Wood Trimmed Manager's Task Chair, Khaki": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "HARDWARE": {
+    "mae": 9.663868233421065,
+    "rmse": 11.417049979597522
+  },
+  "HOME AND KITCHEN I": {
+    "mae": 302.10997853373203,
+    "rmse": 361.2832122525013
+  },
+  "HOME AND KITCHEN II": {
+    "mae": 236.20417990732307,
+    "rmse": 271.55651606077004
+  },
+  "HOME APPLIANCES": {
+    "mae": 14.50306843615225,
+    "rmse": 17.362234617496874
+  },
+  "HOME CARE": {
+    "mae": 2175.4160935269715,
+    "rmse": 2486.1512461840744
+  },
+  "Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Hon Every-Day Series Multi-Task Chairs": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Hon Olson Stacker Stools": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Hot File 7-Pocket, Floor Stand": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Hunt PowerHouse Electric Pencil Sharpener, Blue": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Ibico Hi-Tech Manual Binding System": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Ibico Plastic Spiral Binding Combs": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "KI Adjustable-Height Table": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Kingston Digital DataTraveler 16GB USB 2.0": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "LADIESWEAR": {
+    "mae": 140.2238646508181,
+    "rmse": 162.16950885888005
+  },
+  "LAWN AND GARDEN": {
+    "mae": 281.0751527234889,
+    "rmse": 299.7145153701434
+  },
+  "LINGERIE": {
+    "mae": 70.22328127330148,
+    "rmse": 82.96922191567465
+  },
+  "LIQUOR,WINE,BEER": {
+    "mae": 1051.6112089510157,
+    "rmse": 1460.3800228206444
+  },
+  "Logitech 910-002974 M325 Wireless Mouse for Web Scrolling": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Logitech B530 USB\u00a0Headset\u00a0-\u00a0headset\u00a0- Full size, Binaural": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Logitech Desktop MK120 Mouse and keyboard Combo": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "MAGAZINES": {
+    "mae": 81.15550705436547,
+    "rmse": 97.63032754047936
+  },
+  "MEATS": {
+    "mae": 1521.440373064454,
+    "rmse": 2068.5339048875385
+  },
+  "Maxell 4.7GB DVD-R": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Newell 312": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Newell 333": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Nortel Meridian M3904 Professional Digital phone": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "O'Sullivan Living Dimensions 2-Shelf Bookcases": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "PERSONAL CARE": {
+    "mae": 1802.0058840032714,
+    "rmse": 2704.11428156314
+  },
+  "PET SUPPLIES": {
+    "mae": 89.88388616201861,
+    "rmse": 101.90913873895073
+  },
+  "PLAYERS AND ELECTRONICS": {
+    "mae": 92.52392820135324,
+    "rmse": 113.61616774166991
+  },
+  "POULTRY": {
+    "mae": 1789.482073588599,
+    "rmse": 2577.836142168782
+  },
+  "PREPARED FOODS": {
+    "mae": 463.8315449916354,
+    "rmse": 646.1457341012901
+  },
+  "PRODUCE": {
+    "mae": 17805.81421113339,
+    "rmse": 21390.95928970868
+  },
+  "Plantronics CS510 - Over-the-Head monaural Wireless Headset System": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Poly String Tie Envelopes": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Prang Drawing Pencil Set": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Pressboard Covers with Storage Hooks, 9 1/2\" x 11\", Light Blue": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Pyle PMP37LED": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "SAFCO Arco Folding Chair": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "SAFCO Boltless Steel Shelving": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "SAFCO Commercial Wire Shelving, Black": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "SCHOOL AND OFFICE SUPPLIES": {
+    "mae": 1701.4466682897234,
+    "rmse": 2254.05504560928
+  },
+  "SEAFOOD": {
+    "mae": 92.23732175050873,
+    "rmse": 123.71955087516768
+  },
+  "SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Satellite Sectional Post Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Situations Contoured Folding Chairs, 4/Set": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Standard Rollaway File with Lock": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Staple envelope": {
+    "mae": 656.2802749007519,
+    "rmse": 899.2684770679773
+  },
+  "Staple holder": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Staple remover": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Staple-based wall hangings": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Staples": {
+    "mae": 254.53880146711253,
+    "rmse": 313.6165549671913
+  },
+  "Staples in misc. colors": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Sterilite Officeware Hinged File Box": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Storex Dura Pro Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Tennsco 6- and 18-Compartment Lockers": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Tennsco Double-Tier Lockers": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Vinyl Sectional Post Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Wilson Electronics DB Pro Signal Booster": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Wilson Jones Easy Flow II Sheet Lifters": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Wilson Jones Leather-Like Binders with DublLock Round Rings": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Wilson Jones Ledger-Size, Piano-Hinge Binder, 2\", Blue": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Wilson Jones Turn Tabs Binder Tool for Ring Binders": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Xerox 1881": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Xerox 1893": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Xerox 1898": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Xerox 226": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "XtraLife ClearVue Slant-D Ring Binder, White, 3\"": {
+    "mae": NaN,
+    "rmse": NaN
+  },
+  "Zipper Ring Binder Pockets": {
+    "mae": NaN,
+    "rmse": NaN
+  }
+}
